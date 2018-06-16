@@ -1,4 +1,4 @@
-﻿{"version_code":451205,"content":"
+{"version_code":451205,"content":"
 <p>تحديث 2.70</p>
 
 <li>التحديث لنسخة الماركت 2.18.122</li>
@@ -41,5 +41,5 @@
 <li> Fixed Action Bar Color, Icon Background color, Count color in Hidden Chats & Archived Chats</li>
 <li> Many Other Fixes</li>
 
-","url":"https://www.gbmods.co/?p=19"
+","url":"http://www.saif-mods.com/2018/06/SAWhatsApp-2.70.html"
 }
