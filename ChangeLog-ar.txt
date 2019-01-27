@@ -1,4 +1,4 @@
-{"version_code":451290,"content":"
+{"version_code":451270,"content":"
 <p>دعم الموقع</p>
 
 <li>رسالة دعم للموقع</li>
