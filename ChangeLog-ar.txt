@@ -13,5 +13,5 @@
 <li>اصلاح ظهور نافذة عرض الرسائل المرسلة بعد الضغط على عرض المزيد في معلومات المجموعة</li>
 <li>إصلاحات اخرى</li>
 
-","url":"https://www.saif-mods.com/2018/10/SAWhatsApp-3.00.html"
+","url":"https://www.devsaif.com/2018/11/SAWhatsApp-V3.00.html"
 }
